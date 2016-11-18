@@ -1,0 +1,19 @@
+body { 
+ background: #000; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ color:#fff;
+}
+h1 {
+    color: red;
+    font-size: 5em;
+}
+h2 {
+    background: #000000;
+    font-style: italic;
+}
+p {
+    color:green;
+}

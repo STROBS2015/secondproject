@@ -1,0 +1,12 @@
+{
+  "name": "gulp-automation",
+  "version": "1.0.0",
+  "description": "My gulp automation project",
+  "author": "Suraj",
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat-css": "^2.3.0"
+  }
+}
